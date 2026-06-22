@@ -1,3 +1,11 @@
+# UPDATE 1
+
+- This event are cancel now.
+- 
+- And we change # RGG Invitational Season 4 # to this name # iKin Open Cup 1 #
+
+
+
 # iKin Open Cup 1
 
 -   Organizer: iKin Esports
