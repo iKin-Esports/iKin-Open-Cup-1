@@ -82,7 +82,7 @@
             
           -   Registration open: 00:00 June 1, 2026 ~ 13:55 July 4, 2026
             
-          -   Registration link: [https://www.faceit.com/zh/championship/4dd1fe5e-89dc-488d-8dc0-18872debda3b/iKin%20Open%20Cup%201%20-%20Asian%20Qualifier](https://www.challengermode.com/s/iKinGG/tournaments/25448932-5285-4bb8-9b06-08deaf628dd5)
+          -   Registration link: [https://www.challengermode.com/s/iKinGG/tournaments/25448932-5285-4bb8-9b06-08deaf628dd5](https://www.challengermode.com/s/iKinGG/tournaments/25448932-5285-4bb8-9b06-08deaf628dd5)
             
           -   Date: July 4, 2026
             
