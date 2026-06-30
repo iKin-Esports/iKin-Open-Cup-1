@@ -1,5 +1,17 @@
 # UPDATE
 
+- 30 June 2026, 12:00 HKT
+  
+     - Bracket change.
+       
+          - Group Stage:
+      
+               - 2 Group, each have 4 teams. Double-Elimination BO1, top 2 teams going playoffs.
+           
+          - Playoffs:
+      
+               - Single-Elimination for 4 teams, Semifinals BO3, Grand Final BO5
+
 - 23 June 2026, 22:00 HKT
   
      - Map pool change.
@@ -104,21 +116,17 @@
 
 -   All matches are Bo1
 
--   1st team from each group advance to the Playoffs UB Semifinals
-
--   2nd-3rd teams from each group advance to the Playoffs UB Quarterfinals
+-   Top 2 teams going playoffs
 
 ## Playoffs
 
 -   Date: July 17-20, 2026
 
--   Double-Elimination bracket
+-   Single-Elimination bracket
 
--   UB Quarterfinals, UB Semifinals and LB Quarterfinals are Bo1
+-   Semifinals are Bo3
 
 -   Grand Final are Bo5
-
--   All other matches are Bo3
 
 ## Prize Pool
 
